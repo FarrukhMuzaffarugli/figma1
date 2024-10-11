@@ -1,0 +1,29 @@
+.navbar{
+    height: 122px;
+    background: #FFF;
+    display: flex;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.nav-left {display: flex;
+    flex: 1;
+    align-items: center;
+  
+
+}
+.nav-right {display: flex;
+flex: 1;
+align-items: center;
+justify-content: space-between;
+
+}
+.nav-left img {color: #054C73;
+   width: 167px;
+height: 41px;
+}
+.nav-right p {
+    color: var(--Font-Color, #333);
+    font-family: Montserrat;
+    font-size: 20px;
+    
+}
